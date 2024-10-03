@@ -1,0 +1,11 @@
+.titulo {
+    color: #4e83da; /* Cor do título */
+    font-size: 40px; /* Tamanho da fonte do título */
+    font-weight: bold; /* Negrito no título */
+}
+
+.subtitulo {
+    color: #80adf4; /* Cor dos subtítulos */
+    font-size: 25px; /* Tamanho da fonte dos subtítulos */
+    margin-top: 20px; /* Espaçamento superior */
+}
