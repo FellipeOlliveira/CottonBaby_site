@@ -32,7 +32,7 @@ def voltar():
 st.write('O valor de selecaoEnd é:', st.session_state.get('selecaoEnd', 'Valor não definido'))
 
 # CSS personalizado para estilização
-with open("../styles.css") as css:
+with open("./styles.css") as css:
     st.markdown(f"<style>{css.read()}</style>", unsafe_allow_html=True)
 
 # Logo Cotton Baby.
