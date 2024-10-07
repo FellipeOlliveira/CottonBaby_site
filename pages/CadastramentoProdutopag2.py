@@ -28,7 +28,6 @@ def voltar():
         st.switch_page("Escolha_de_Agência_e_Rede.py")
 
 
-
 st.write('O valor de selecaoEnd é:', st.session_state.get('selecaoEnd', 'Valor não definido'))
 
 # CSS personalizado para estilização
