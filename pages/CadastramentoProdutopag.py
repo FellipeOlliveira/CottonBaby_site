@@ -25,7 +25,7 @@ def voltar():
         st.session_state['selecaoEst'] = None
         st.session_state['selecaoCid'] = None
         st.session_state['selecaoEnd'] = None
-        st.switch_page("Escolha_de_Agência_e_Rede.py")
+        st.switch_page("app.py")
 
 
 
