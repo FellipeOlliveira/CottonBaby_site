@@ -234,7 +234,6 @@ def bd_insert_precos(empresas:dict,preco:dict,cod_loja:str,loja_rede:str,loja_ag
             "{produto_nome}"
             )"""
         )
-        print('Tudo limpo')
 
     connection.commit()
     cursor.close()

@@ -5,53 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe80d2df-04aa-458e-8666-2148a42cf331" name="Changes" comment="'commit'">
-      <change afterPath="$PROJECT_DIR$/Cadastramento_de_Produtos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bd_worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cotton_baby.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Visualização_da_Tabela.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/LogoCottonSemFundoSim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastramento_de_Produtos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bd_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/bd_worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cotton_baby.db" beforeDir="false" afterPath="$PROJECT_DIR$/cotton_baby.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Visualização_da_Tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Visualização_da_Tabela.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FellipeOlliveira"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FellipeOlliveira&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FellipeOlliveira/CottonBaby_site.git",
-    "accountId": "1ce42383-77c2-4308-922c-ee183b4adade"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FellipeOlliveira/CottonBaby_site.git&quot;,
+    &quot;accountId&quot;: &quot;1ce42383-77c2-4308-922c-ee183b4adade&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2muWz1gs4Uth07Bo6uETOzEXRKt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/semid/PycharmProjects/Cotton"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.macaco.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/semid/PycharmProjects/Cotton/pages&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\semid\PycharmProjects\Cotton\pages" />
+      <recent name="C:\Users\semid\PycharmProjects\Cotton" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\semid\PycharmProjects\Cotton\pages" />
       <recent name="C:\Users\semid\PycharmProjects\Cotton" />
     </key>
   </component>
