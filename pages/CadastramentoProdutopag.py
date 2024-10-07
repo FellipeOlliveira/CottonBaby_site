@@ -1,7 +1,7 @@
 import streamlit as st
 import bd_worker as bw
 from PIL import Image
-import EscolhaAgenciaFinal as EAR
+import app as EAR
 
 #st.set_page_config(initial_sidebar_state="collapsed")
 

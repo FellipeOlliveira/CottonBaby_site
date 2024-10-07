@@ -1,7 +1,7 @@
 import streamlit as st
 import bd_worker as bw
 from PIL import Image
-import EscolhaAgenciaFinal as EAR
+import app as EAR
 
 #st.set_page_config(initial_sidebar_state="collapsed")
 
@@ -36,7 +36,7 @@ with open("./styles.css") as css:
     st.markdown(f"<style>{css.read()}</style>", unsafe_allow_html=True)
 
 # Logo Cotton Baby.
-logo_cotton = Image.open("../src/img/LogoCottonSemFundoSim.png")
+logo_cotton = Image.open("./src/img/LogoCottonSemFundoSim.png")
 st.image(logo_cotton, caption='', width=700, use_column_width=False)
 
 st.markdown('<p class="subtitulo">Selecione o produto associado ao endereço.</p>', unsafe_allow_html=True)
